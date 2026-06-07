@@ -1,6 +1,6 @@
 # Nadeschda Barenje
 
-Artist working with glass, code, and ceramics. BA Ceramics and Glass, Konstfack 2026.
+Artist working with glass, code, and ceramics. BFA Ceramics and Glass, Konstfack 2026.
 
 I train AI models on my own artwork, write code that generates mathematical organisms, and cast the results in glass using lost-PLA and hot blowmold techniques with gypsum-quartz molds. I started writing code as a kid, entering The Sims cheats and making HTML presentations on stallet.se. Today a Python script and a plaster mold have more in common than people think. Both are containers for something that does not yet exist.
 
@@ -10,10 +10,10 @@ My degree project at Konstfack explores what happens when 7843 photographs of my
 
 ## Projects
 
-- **[GEMESIS](https://github.com/Jinkieyz/lajfidemo)** - Evolutionary life simulation, Gielis superformula organisms in Blender/Python
+- **[GEMESIS](https://github.com/Jinkieyz/gemesis)** - Evolutionary life simulation, Gielis supershape organisms in Blender. Generative sculpture through natural selection.
 - **[extern_ai](https://github.com/Jinkieyz/extern_ai_collage)** - LoRA training on 7770 sculptural images, Stable Diffusion fine-tuning
 - **[min_bild_ai](https://github.com/Jinkieyz/min_bild_ai_latent_space_walker)** - Progressive GAN trained from scratch, 1600+ GPU hours, latent space walks
-- **[LAJFI](https://github.com/Jinkieyz/lajfi)** - Evolutionary simulation, part of Hard Copy
+- **[LAJFI](https://github.com/Jinkieyz/lajfi)** - Evolutionary simulation engine, part of Hard Copy
 - **[Carried Stillness / Intruder](https://github.com/Jinkieyz/carried_stillness_intruder)** - WiFi-reactive video installation using CSI
 - **[HOLI](https://github.com/Jinkieyz/holi)** - Headless organism generator with Boolean tunnels for glass blowing
 
